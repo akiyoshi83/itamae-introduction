@@ -1,0 +1,9 @@
+roles:
+  - base
+  - app
+
+app:
+  name: ex_itamae_rails4
+  path: /var/apps/ex_itamae_rails4
+  log_path: /var/log/ex_itamae_rails4
+

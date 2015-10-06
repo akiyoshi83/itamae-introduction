@@ -1,0 +1,10 @@
+roles:
+  - base
+  - db
+
+mysql:
+  dbname: ex_itamae_rails4_development
+  username: app
+  host: '%'
+  password: password
+
